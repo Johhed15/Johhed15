@@ -21,7 +21,7 @@
 
 
 
-### Languages and some tools I use🔧:
+### Languages and some tools I use 🔧
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/rmarkdown.svg" title="RMarkdown" alt="RMarkdown" width="40" height="40"/>&nbsp;
@@ -53,6 +53,7 @@
 
 
 ### If you want to know me better you can reach me at LinkedIn or mail:
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/johannes-hedstr%C3%B6m-240a32196/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

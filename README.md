@@ -9,16 +9,26 @@
 
 ### My name is Johannes and I am currently studying my master in Statistics and Machine Learning at Linköpings Universitet!
 
+- :
+
+- 🏀 Very interessted in sports
+
 - 🖱️Experience in SAS, weka and Power BI
 
 
 
 
-### Programming languages and some tools:
+### Languages and some tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/rmarkdown.svg" title="RMarkdown" alt="RMarkdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" title="GGplot2" alt="GGplot2" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/dbplyr.svg" title="Dplyr" alt="Dplyr" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/shiny.svg" title="Shiny" alt="Shiny" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/stringr.svg" title="Stringr" alt="Stringr" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyr.svg" title="Tidyr" alt="Tidyr" width="40" height="40"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spyder/spyder-original-wordmark.svg" title="Spyder" alt="Spyder" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
@@ -27,7 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-line-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-line.svg" title="ScikitLearn" alt="Scikit" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-  <img src="" title="ScikitLearn" alt="Scikit" width="40" height="40"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-original.svg" title="Minitab" alt="Minitab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;

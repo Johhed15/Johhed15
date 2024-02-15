@@ -17,7 +17,7 @@
 
 - 🖱️ Experience in SAS, weka and Power BI
 
-- 🏀 Very interested in sports and food 🍕🍔
+- 🏀 Very interested in sports and food
 
 
 

@@ -49,7 +49,7 @@
  
 </div>
 
-### Check out my repositories to see some of my work from the studies and spare time! 🖥️
+## Check out my repositories to see some of the work I have done in my studies and spare time! 🖥️
 
 
 ### If you want to know me better you can reach me at LinkedIn or mail:

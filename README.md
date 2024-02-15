@@ -15,7 +15,7 @@
 
 - 📖 Wrote my bachelor thesis about the effects of online marketing on generating new customers
 
-- 🖱️ Experience in SAS, weka and Power BI
+- 🖱️ Experience in SAS, weka, minitab, SPSS and Power BI
 
 - 🏀 Very interested in sports and food
 
@@ -41,8 +41,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-line.svg" title="ScikitLearn" alt="Scikit" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-original.svg" title="Minitab" alt="Minitab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" title="Mariadb" alt="Mariadb" width="40" height="40"/>&nbsp;

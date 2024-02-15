@@ -9,16 +9,19 @@
 
 ### My name is Johannes and I am currently studying my master in Statistics and Machine Learning at Linköpings Universitet!
 
-- :
+- 🧮 Enjoy problem solving using programming
 
-- 🏀 Very interested in sports
+- 🎨 Visualization and data exploration
 
-- 🖱️Experience in SAS, weka and Power BI
+- 📖 Wrote my bachelor thesis about the effects of online marketing on generating new customers
+
+- 🖱️ Experience in SAS, weka and Power BI
+
+- 🏀 Very interested in sports and food 🍕🍔
 
 
 
-
-### Languages and some tools:
+### Languages and some tools 📦:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/rmarkdown.svg" title="RMarkdown" alt="RMarkdown" width="40" height="40"/>&nbsp;
@@ -40,6 +43,7 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-original.svg" title="Minitab" alt="Minitab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" title="Mariadb" alt="Mariadb" width="40" height="40"/>&nbsp;
  

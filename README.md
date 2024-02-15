@@ -11,7 +11,7 @@
 
 - :
 
-- 🏀 Very interessted in sports
+- 🏀 Very interested in sports
 
 - 🖱️Experience in SAS, weka and Power BI
 

@@ -7,7 +7,7 @@
 
 ## About me 👨‍🎓
 
-### My name is Johannes and I am currently studying my master in Statistics and Machine Learning at Linköpings Universitet!
+### My name is Johannes and I am currently studying my master in Statistics and Machine Learning at Linköpings University!
 
 - 🧮 Enjoy problem solving using programming
 

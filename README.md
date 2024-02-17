@@ -13,7 +13,7 @@
 
 - 🎨 Visualization and data exploration
 
-- 📖 Wrote my bachelor thesis about the effects of online marketing on generating new customers
+- 📝 Wrote my bachelor thesis about the effects of online marketing on generating new customers
 
 - 🖱️ Experience in SAS, weka, minitab, SPSS and Power BI
 
@@ -46,7 +46,7 @@
  
 </div>
 
-## Check out my repositories to see some of the work I have done in my studies and spare time! 🖥️
+## Check out my repositories to see some of the work I have done in my studies and spare time!
 
 
 ### If you want to know me better you can reach me at LinkedIn or mail:

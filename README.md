@@ -20,7 +20,7 @@
 
 <br>
 
-### Languages and some tools I use 
+### Languages and some of the tools I use 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/rmarkdown.svg" title="RMarkdown" alt="RMarkdown" width="40" height="40"/>&nbsp;

@@ -17,9 +17,8 @@
 
 - 🖱️ Experience in SAS, weka, minitab, SPSS and Power BI
 
-- 🏀 Very interested in sports and food
 
-
+<br>
 
 ### Languages and some tools I use 
 <div>

@@ -46,8 +46,11 @@
  
 </div>
 
+<br>
+
 ## Check out my repositories to see some of the work I have done in my studies and spare time!
 
+<br>
 
 ### If you want to know me better you can reach me at LinkedIn or mail:
 

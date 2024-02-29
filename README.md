@@ -48,7 +48,6 @@
 
 <br>
 
-
 ## Check out my repositories to see some of the work I have done in my studies and spare time!
 
 <br>
@@ -57,7 +56,7 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/johannes-hedstr%C3%B6m-240a32196/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Badge" height='30' witdh ='40'/>
   </a>
 </div>
 

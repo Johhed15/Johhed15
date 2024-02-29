@@ -48,7 +48,6 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johhed15&theme=tokyonight)
 
 ## Check out my repositories to see some of the work I have done in my studies and spare time!
 

@@ -66,6 +66,6 @@
 
 [![Your GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Johhed15&theme=github)](https://github.com/Johhed15)
 
-
+<img src="https://github.com/Johhed15/Johhed15/blob/main/lang-statistics.png" alt="Graphic">	
 
 

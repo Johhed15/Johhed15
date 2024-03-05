@@ -62,5 +62,10 @@
 
 📫 johannes_15_04@hotmail.com
 
+### GitHub Stats
+
+[![Your GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Johhed15&theme=github)](https://github.com/Johhed15)
+
+
 
 

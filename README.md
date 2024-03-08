@@ -50,13 +50,10 @@
 
 ## Check out my repositories to see some of the work I have done in my studies and spare time!
 
-<br>
-
-
 ### GitHub Stats created with the repository in the following link! 
 <div id="badges">
   <a href="https://github.com/Johhed15/Githubstats">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Githubstats" height='50' witdh ='50'/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="LinkedIn Badge"  title = 'Linkedin' height='50' witdh ='50'/>
   </a>
 </div>
 
@@ -69,7 +66,7 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/johannes-hedstr%C3%B6m-240a32196/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Badge" height='30' witdh ='40'/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Githubstats" height='30' witdh ='40' title = 'Githubstats'/>
   </a>
 </div>
 

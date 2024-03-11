@@ -1,4 +1,4 @@
-# Hi and welcome to my GitHub! 👋
+# Hi and welcome to my GitHub! 👋 
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -9,13 +9,13 @@
 
 ### My name is Johannes and I am currently studying my master in Statistics and Machine Learning at Linköpings University!
 
-- 🧮 Enjoy problem solving using programming
+- 📝 I wrote my bachelor's thesis on a mixed media model designed to analyze the effects of money spent on each channel in acquiring new customers. The model used for this analysis was XGBoost, and SHAP values were employed to achieve a more fair assessment of each channel's contribution
 
-- 🎨 Visualization and data exploration
+- 🧮 Enjoy problem solving using programming in R and Python
 
-- 📝 Wrote my bachelor thesis about the effects of online marketing on generating new customers
-
-- 🖱️ Experience in SAS, weka, minitab, SPSS and Power BI
+- ⚽ I have a passion for working with image and sports data, applying machine learning techniques to extract insights and patterns.
+  
+- 📊 Utilizing data vizualisation techniques to uncover information and effectively communicate results
 
 
 <br>

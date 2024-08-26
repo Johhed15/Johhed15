@@ -7,7 +7,7 @@
 
 ## About me
 
-### My name is Johannes and I am currently studying my master in Statistics and Machine Learning at Linköpings University!
+### My name is Johannes and I am currently studying a master in Statistics and Machine Learning at Linköpings University!
 
 - 📝 I wrote my bachelor's thesis on a mixed media model designed to analyze the effects of money spent on each channel in acquiring new customers. The model used for this analysis was XGBoost, and SHAP values were employed to achieve a more fair assessment of each channel's contribution
 

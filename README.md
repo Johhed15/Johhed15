@@ -62,6 +62,7 @@
 
 <br>
 
+
 ## If you want to know me better you can reach me on LinkedIn or by mail:
 
 <div id="badges">

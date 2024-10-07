@@ -58,7 +58,7 @@
   </a>
 </div>
 
-<img src="https://github.com/Johhed15/Johhed15/blob/main/lang-statistics.png " alt="Graphic">	
+<img src="https://github.com/Johhed15/Johhed15/blob/main/lang-statistics.png 1" alt="Graphic">	
 
 
 <br>

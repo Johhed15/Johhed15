@@ -1,12 +1,7 @@
-# Hi and welcome to my GitHub! 👋 
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-
-
-## About me
 
 ### My name is Johannes and I am currently studying a master in Statistics and Machine Learning at Linköpings University!
 

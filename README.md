@@ -5,18 +5,13 @@
 
 ### My name is Johannes and I am currently studying a master in Statistics and Machine Learning at Linköpings University!
 
-- 📝 I wrote my bachelor's thesis on a mixed media model designed to analyze the effects of money spent on each channel in acquiring new customers. The model used for this analysis was XGBoost, and SHAP values were employed to achieve a more fair assessment of each channel's contribution
+- I wrote my bachelor's thesis on a mixed media model designed to analyze the effects of money spent on each channel in acquiring new customers. The model used for this analysis was XGBoost, and SHAP values were employed to achieve a more fair assessment of each channel's contribution
 
-- 🧮 Enjoy problem solving using programming in R and Python
-
-- ⚽ I have a passion for working with image and sports data, applying machine learning techniques to extract insights and patterns.
-  
-- 📊 Utilizing data vizualisation techniques to uncover information and effectively communicate results
-
+- Enjoy problem solving using programming in R and Python
 
 <br>
 
-### Languages and some of the tools I use 
+### Languages and some of the tools/packages I use 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/rmarkdown.svg" title="RMarkdown" alt="RMarkdown" width="40" height="40"/>&nbsp;

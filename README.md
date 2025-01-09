@@ -69,5 +69,4 @@
 
 <br>
 
-## Check out my repositories to see some of the work I have done in my studies and spare time!
 

@@ -13,6 +13,34 @@
 
 <br>
 
+
+## You can reach me on LinkedIn or by mail:
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/johannes-hedstr%C3%B6m-240a32196/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Badge" height='30' witdh ='40' title = 'LinkedIn'/>
+  </a>
+</div>
+
+📫 johannes_15_04@hotmail.com
+
+
+
+
+
+
+### GitHub Stats! 
+<div id="badges">
+  <a href="https://github.com/Johhed15/Githubstats">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Githubstats"  title = 'Githubstats' height='50' witdh ='50'/>
+  </a>
+</div>
+
+<img src="https://github.com/Johhed15/Johhed15/blob/main/lang-statistics.png" alt="Graphic">	
+
+
+<br>
+
 ### Languages and some of the tools/packages I use 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
@@ -42,27 +70,4 @@
 <br>
 
 ## Check out my repositories to see some of the work I have done in my studies and spare time!
-
-### GitHub Stats! 
-<div id="badges">
-  <a href="https://github.com/Johhed15/Githubstats">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Githubstats"  title = 'Githubstats' height='50' witdh ='50'/>
-  </a>
-</div>
-
-<img src="https://github.com/Johhed15/Johhed15/blob/main/lang-statistics.png" alt="Graphic">	
-
-
-<br>
-
-
-## You can reach me on LinkedIn or by mail:
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/johannes-hedstr%C3%B6m-240a32196/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Badge" height='30' witdh ='40' title = 'LinkedIn'/>
-  </a>
-</div>
-
-📫 johannes_15_04@hotmail.com
 

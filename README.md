@@ -41,7 +41,7 @@
 
 ## Check out my repositories to see some of the work I have done in my studies and spare time!
 
-### GitHub Stats created with the repository in the following link! 
+### GitHub Stats! 
 <div id="badges">
   <a href="https://github.com/Johhed15/Githubstats">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Githubstats"  title = 'Githubstats' height='50' witdh ='50'/>

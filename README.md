@@ -54,7 +54,7 @@
 <br>
 
 
-## If you want to know me better you can reach me on LinkedIn or by mail:
+## You can reach me on LinkedIn or by mail:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/johannes-hedstr%C3%B6m-240a32196/">

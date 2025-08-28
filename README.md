@@ -3,9 +3,9 @@
 </div>
 
 
-### My name is Johannes and I am currently studying a master in Statistics and Machine Learning at Linköpings University!
+### My name is Johannes
 
-- During the spring of 2025 I will be writing my Master Thesis on the effects on model performance and CO2 emissions when reducing the training data size.   
+- During the spring of 2025 I wrote my Master Thesis on the effects on model performance and CO2 emissions when reducing the training data size.   
 
 - I wrote my bachelor's thesis on a mixed media model designed to analyze the effects of money spent on each channel in acquiring new customers. The model used for this analysis was XGBoost with various variable transformations to capture carryover effects and seasonal patterns, SHAP values were employed to achieve a more fair assessment of each channel's contribution
 

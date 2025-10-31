@@ -31,16 +31,6 @@
 <br>
 
 
-
-<div id="badges">
-  <a href="https://github.com/Johhed15/Githubstats">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Githubstats"  title = 'Githubstats' height='50' witdh ='50'/>
-  </a>
-</div>
-
-<img src="https://github.com/Johhed15/Johhed15/blob/main/lang-statistics.png" alt="Graphic">	
-
-
 <br>
 
 ### Languages and some of the tools/packages I use 

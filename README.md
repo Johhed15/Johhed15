@@ -24,7 +24,7 @@
 
 📫 johannes_15_04@hotmail.com
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johhed15)](https://github.com/Johhed15/github-readme-stats)
 <br>
 
 ### Languages and some of the tools/packages I use 

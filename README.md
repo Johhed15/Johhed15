@@ -25,12 +25,6 @@
 📫 johannes_15_04@hotmail.com
 
 
-
-
-<br>
-<br>
-
-
 <br>
 
 ### Languages and some of the tools/packages I use 

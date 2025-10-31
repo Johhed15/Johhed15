@@ -24,7 +24,7 @@
 
 📫 johannes_15_04@hotmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johhed15&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johhed15&stats_format=bytes)
 
 <br>
 

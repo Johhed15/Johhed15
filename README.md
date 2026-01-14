@@ -25,6 +25,8 @@
 📫 johannes_15_04@hotmail.com
 
 ## Stats for my public repos
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Johhed15&langs_count=8)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johhed15&stats_format=bytes)
 
 <br>
